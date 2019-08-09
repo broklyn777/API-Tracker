@@ -5,5 +5,5 @@ const dotenv = require("dotenv");
 const app = express();
 
 app.listen(5000, () => {
-  console.log("App lysnar på port 5000!!!");
+  console.log("App lysnar på port 5000!");
 });
